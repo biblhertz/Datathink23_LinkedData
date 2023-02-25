@@ -548,8 +548,6 @@
         "start_date": "0500..0600",
         "tourism": "attraction",
         "type": "multipolygon",
-    'assignee': 'ungheresi',
-    'otherNames': 'Santo Stefano Rotondo al Celio, Santo Stefano in Girimonte, Santo Stefano in Querquetulano',
         "website": "https://www.cgu.it/it/santo-stefano-rotondo/",
         "wikidata": "Q919456",
         "wikipedia": "it:Basilica di Santo Stefano Rotondo al Celio"
@@ -15120,8 +15118,6 @@
         "name": "San Francesco di Paola ai Monti",
         "religion": "christian",
         "source": "Bing, Local knowledge",
-    'architect': 'Luigi Barattone',
-    'assignee': 'calabresi',
         "wikidata": "Q1581615",
         "wikipedia": "it:Chiesa di San Francesco di Paola (Roma)"
       },
