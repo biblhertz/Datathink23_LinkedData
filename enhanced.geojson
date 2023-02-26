@@ -543,7 +543,17 @@
   "image:1": "http://commons.wikimedia.org/wiki/Special:FilePath/Celio%20-%20santo%20Stefano%20Rotondo%20-%20interno%20in%20restauro%2001533-4.JPG",
   "assignee": ["ungheresi"],
   "otherNames": ["Santo Stefano Rotondo al Celio, Santo Stefano in Girimonte, Santo Stefano in Querquetulano"],
-  "rite": ["Latin"]
+  "rite": ["Latin"],
+  "books": [
+   {"ID": "http://lod.b3kat.de/title/BV000774157",
+    "title": "Kirchen am Lebensweg"},
+   {"ID": "http://lod.b3kat.de/title/BV014657354",
+    "title": "A Római Santo Stefano Rotondo a Magyarok Nemzeti Temploma"},
+   {"ID": "http://lod.b3kat.de/title/BV038082683",
+    "title": "Arte mitriaca e arte cristiana"},
+   {"ID": "http://lod.b3kat.de/title/BV038092969",
+    "title": "Emblems in Jesuit education practice"}
+  ]
 
     },
       "geometry": {
